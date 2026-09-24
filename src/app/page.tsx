@@ -45,7 +45,7 @@ export default function Home() {
       </section>
 
       {/* User Feedback / Testimonials */}
-      <section className="py-20 bg-slate-950 relative overflow-hidden border-t border-slate-900">
+      <section className="py-20 relative overflow-hidden border-t border-gray-800">
         <div className="absolute top-0 right-0 -mt-20 -mr-20 w-80 h-80 bg-rose-900/20 rounded-full blur-3xl opacity-50"></div>
         <div className="absolute bottom-0 left-0 -mb-20 -ml-20 w-80 h-80 bg-blue-900/20 rounded-full blur-3xl opacity-50"></div>
 
